@@ -1,0 +1,21 @@
+.mission-vision-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+  padding: 40px;
+  margin: 30px 5%;
+  background-color: #333;
+  border-radius: 10px;
+  align-content: center;
+  justify-content: space-evenly;
+}
+.mission-vision-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.mission-vision-info h5 {
+  color: #fab954;
+  margin: 15px 0px;
+}

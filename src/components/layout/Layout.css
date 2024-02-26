@@ -1,0 +1,11 @@
+.layout{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+}
+.layout .outlet{
+    flex: 1;
+    background-color: black;
+    color: white;
+}
